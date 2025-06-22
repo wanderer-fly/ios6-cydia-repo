@@ -1,0 +1,14 @@
+Package: tw.xym.hello
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 蹦蹦小圆帽 i@xym.tw
+Filename: ./debs/tw.xym.hello_1.0_iphoneos-arm.deb
+Size: 634
+MD5sum: c60ec617e82a3207f9670c119cea764d
+SHA1: f3eba9be72947c2e56607dae64363fea28d769f1
+SHA256: 94f0bec42a7fd3633243f4dea00ce3ce72bd01605d4eec162bb85559eb4abc0e
+Section: Utilities
+Priority: optional
+Description: A test package for iOS 6 Cydia
+Name: Hello world
+
